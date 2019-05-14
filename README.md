@@ -14,3 +14,6 @@ Menu using tablet
 - **심지용** - [simjiyong](https://github.com/simjiyong)
 - **김지만** - [kimjiman94](https://github.com/kimjiman94)
 
+## Enjoeat 의 다른 프로젝트
+
+- [SERVER](https://github.com/jungjai/Enjoeat_Server)
